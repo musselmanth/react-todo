@@ -32,7 +32,7 @@ const App = () => {
       return [...currentTodos, {
         id: crypto.randomUUID(),
         title,
-        complete: false,
+        completed: false,
       }]
     })
   }
