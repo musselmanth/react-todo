@@ -12,6 +12,6 @@ A simple single page react app created to practive react hook fundamentals.
 - Ensure node is installed
 
 ```
-node i
-node run start
+npm i
+npm run start
 ```
